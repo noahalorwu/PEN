@@ -1,0 +1,305 @@
+<resources>
+    <string name="app_name">PEN</string>
+    <string name="date_of_birth">Date of Birth</string>
+    <string name="already_registered_sign_in_here">Already Registered? Sign in here</string>
+    <string name="enter_your_password">    Enter your password</string>
+    <string name="full_name">Full name</string>
+    <string name="enter_your_email">    Enter your email</string>
+    <string name="register">Register</string>
+    <string name="sign_in">Sign In</string>
+    <string name="title_activity_profile_menu">Dashboard</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!--Junior High School 1 Introduction to Science-->
+    <string-array name="introduction_jhs1">
+        <item>Data on Weighing</item>
+        <item>Density Tower</item>
+        <item>Egg Float</item>
+        <item>Sinkers and Floaters</item>
+        <item>Cartesian Diver</item>
+        <item>Construction of Eureka Can</item>
+    </string-array>
+
+    <!--Junior High School 1 Diversity of Matter-->
+    <string-array name="diversity_jh1">
+        <item>Students as Matter</item>
+        <item>Arranging States of Matter</item>
+        <item>Changes of State</item>
+        <item>Cell Models</item>
+        <item>Capillary Rise
+        </item>
+        <item>Moving Matches</item>
+        <item>Measuring Capillary Rise</item>
+        <item>Automatic Irrigation</item>
+        <item>Hazards (A Safety Game) </item>
+    </string-array>
+
+    <!--Junior High School 1 Cycles-->
+    <string-array name="cycles_jhs1">
+        <item>Flower Structures</item>
+        <item>Seed Germination</item>
+        <item>Conditions for Germination</item>
+    </string-array>
+
+    <!--Junior High School 1 Systems-->
+    <string-array name="systems_jhs1">
+        <item>Breathing Model</item>
+        <item>Respiration Cards</item>
+        <item>Respiration Plates</item>
+        <item>Lung Capacity</item>
+    </string-array>
+
+    <!--Junior High School 1 Energy-->
+    <string-array name="energy_jhs1">
+        <item>Sources of Energy</item>
+        <item>Water Wheel</item>
+        <item>Windmills</item>
+        <item>Potential Energy of a Clothespin</item>
+        <item>Chemical to Electrical Energy</item>
+        <item>Light Travels in a Straight Line</item>
+        <item>Pinhole Camera</item>
+        <item>Formation of Shadows</item>
+        <item>Periscope</item>
+        <item>Rising Coin</item>
+        <item>Circuit Boards</item>
+        <item>Forward and Reverse Biased Diodes</item>
+        <item>Switches</item>
+        <item>Finding Circuit Components</item>
+    </string-array>
+
+    <!--Junior High School 1 Interactions of Matter-->
+
+    <string-array name="interactions_jhs1">
+        <item>Ecosystems</item>
+        <item>Camouflage and Protection</item>
+        <item>Natural Selection Game</item>
+        <item>Aquarium</item>
+        <item>Terrarium</item>
+        <item>Reactions to Light</item>
+        <item>Reactions to Humidity</item>
+        <item>Food Webs</item>
+        <item>Food Chains Link</item>
+        <item>Air Pollution(Smog)</item>
+        <item>Greenhouse Bucket</item>
+        <item>Physical or Chemical?</item>
+        <item>Physical and Chemical Changes of Metals</item>
+    </string-array>
+    <string name="title_activity_measurement">Measurement</string>
+    <string name="title_activity_data_onweighing">Data On Weighing</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_densitytower">Density Tower</string>
+
+
+    <string name="title_activity_egg_float">Egg Float</string>
+    <string name="title_activity_sinkers_and_floaters">Sinkers And Floaters</string>
+    <string name="title_activity_cartesian_diver">Cartesian Diver</string>
+    <string name="title_activity_construction_of_euraka">Construction of a Eureka Can</string>
+    <string name="title_activity_student_as_matter">Student As Matter</string>
+
+    <!--Content for JHS 1-->
+
+    <!--Data Weighing-->
+    <string name="dataweighing">Fix a rubber band at one end to a table or retort stand. At the other end, attach a paper clip to act as a pointer and a small bag or scale pan. Fill the bag or scale pan with successive numbers of nails. Have students measure the extension of the rubber band each time they add more nails. Record the readings and use the data to draw a graph as shown in the ﬁgure.</string>
+
+    <!--Density Tower-->
+    <string name="density_material">Syringes, water, honey, glycerine, cooking oil, spirit, kerosene, small objects </string>
+    <string name="density_procedure">Add each liquid into the syringe, one by one, observing the relative depths of each liquid. Place small solid objects e.g. rubber erasers, paper clips, small nails, etc. into the syringe and observe their positions relative to the various liquids. </string>
+    <string name="density_question">Which liquid is the most dense? Which is the least dense? </string>
+    <string name="density_observation">The denser liquids sink to the bottom while the less dense liquids rise to the top. The solid objects settle among liquids of comparable density.  </string>
+    <string name="density_applications">Relative densities of liquids and solids help to identify certain substances, e.g. whether a ring is really made of gold. </string>
+    <string name="density_note">Food coloring can be added to colorless liquids such as water, kerosene and glycerine to help distinguish among them.</string>
+
+    <!--Egg Float-->
+    <string name="eggfloat_material"> 2 fresh eggs, 2 containers (bottles cut in half), salt (less than half a cup) </string>
+    <string name="eggfloat_setup">Fill the two containers with water and place a fresh egg in each. </string>
+    <string name="eggfloat_procedure"> Leave one as it is and add salt to the other. Add and mix salt until the egg ﬂoats in the saltwater container. </string>
+    <string name="eggfloat_questions">Why does the egg ﬂoat in saltwater but sink in fresh water? </string>
+    <string name="eggfloat_theory"> Saltwater has a greater density than fresh water. A fresh egg has a density between fresh water and saltwater. Since an egg is denser than freshwater, it sinks. Since an egg is less dense than saltwater, it ﬂoats. </string>
+    <string name="eggfloat_application">This is the same reason why it is easier to stay aﬂoat when swimming in the ocean (saltwater) as opposed to a lake (fresh water).</string>
+
+    <!-- Sinkers and Floaters-->
+    <string name="sinkers_material"> Basin of water, various objects, e.g. nail, paper clip, paper, aluminum foil, soda cap, matchbox, pen cap, toothpick, balloons, ﬂour </string>
+    <string name="sinkers_setup"> Fill one balloon with ﬂour, one with water, and one with air. They should all be the same size. </string>
+    <string name="sinkers_procedure"> Have students predict the outcome for each object. Then place each object in the water, ﬁrst by placing very carefully, then by dropping it in.</string>
+    <string name="sinkers_questions">
+        1. What factors aﬀect whether an object sinks or ﬂoats? \n2. How do large objects such as boats ﬂoat?
+</string>
+    <string name="sinkers_observation"> A bottle cap placed carefully on the surface of the water will ﬂoat, but when pushed under, will sink. A sheet of aluminum foil will ﬂoat while a sheet of the same size which is folded several times will sink. A balloon ﬁlled with ﬂour sinks, one ﬁlled with water just ﬂoats, and one ﬁlled with air ﬂoats above the surface. </string>
+    <string name="sinkers_theory"> Flotation depends on buoyancy. If the buoyancy force on an object (upward force from ﬂuid) is greater than its weight (downward force from gravity), the object will ﬂoat. However if the weight is greater than the buoyancy, the object will sink. The weight of an object depends on its average density, so decreasing average density (by ﬁlling it with air, for example) can allow even very heavy objects, such as steel boats, to ﬂoat.</string>
+    <string name="sinkers_application"> Conduct this activity as an experiment with students. Let them make predictions on which items will sink and ﬂoat beforehand.
+</string>
+
+    <!--Cartesian Diver-->
+    <string name="cartesian_material"> 1.5 L plastic bottle, balloon, paper clips (large), water </string>
+    <string name="cartesian_setup">Fill the bottle with water. Fix a large paper clip to the lip of a balloon. Making sure to keep all air out of the balloon, insert it into the bottle. It should just ﬂoat at the top while remaining completely submerged. Adjust depending on type of balloon and paper clips. </string>
+    <string name="cartesian_procedure"> Screw the cap on the bottle and squeeze the middle of the bottle, then release. </string>
+    <string name="cartesian_observation">The balloon should begin to sink when you squeeze, but ﬂoat again when you release. </string>
+    <string name="catersian_theory">While water is nearly incompressible, the balloon (and any small amount of air inside) is compressible. This means when you squeeze the bottle, the water remains unchanged, but the balloon is compressed, decreasing its volume and so increasing its density. Before squeezing, it was less dense than the water and so it ﬂoated. After squeezing, it becomes denser than the water and sinks.</string>
+
+    <!--Construction of a Eureka Can-->
+    <string name="eureka_material">Plastic bottle, knife</string>
+    <string name="eureka_procedure"> Cut a plastic bottle about 10 cm from the bottom. Cut 2 slits at the top of the bottle and bend the strip forward to form a spout. </string>
+    <string name="eureka_applications">Measuring the volume of irregular objects, Archimedes’ Principle</string>
+
+
+    <!--Student As Matter-->
+    <string name="studentasmatter_procedure"> Use students to demonstrate the concept of states of matter. </string>
+    <string name="studentasmatter_theory">When students or objects are close together, they represent particles in the solid state. As they move apart and past each other they represent particles in the liquid state. Fast and randomly moving pupils or objects represent particles in the gaseous state.</string>
+
+    <!--Arranging States of Matter-->
+    <string name="arranging_material">Bottle caps, paper </string>
+    <string name="arranging_procedure">Have students arrange bottle caps to represent the different states of matter, using labels from paper or cardboard. </string>
+    <string name="arranging_theory">The spacing of the bottle caps represents the distance between particles in each state. Particles have large spaces between them in gases, less space in liquids, and are very condensed in solids.</string>
+
+
+    <!--Changes of State-->
+    <string name="changeofstate_material"> Tin can, glass bottle, water, Heat Sources </string>
+    <string name="changeofstate_procedure"> Pour a small amount of water into a tin can and heat it until it boils. Fill a bottle with cool water and hold it above the tin can.</string>
+    <string name="changeofstate_observation"> Water drops form on the outside of the cool bottle when it is touched by the steam of the boiling water. </string>
+    <string name="changeofstate_theory">Water particles escape from the boiling water as vapour and condense on the lower surface of the bottle to form water droplets. Hence water is made up of small particles.</string>
+
+
+    <!--Cell Models-->
+    <string name="cellmodels_material"> 2 large and 2 small plastic bags, water, 2 large seeds/stones, small seeds/coloured paper, grass, cardboard box</string>
+    <string name="cellmodels_procedure"> Make models of plant and animal cells as shown.</string>
+
+    <!--Capillary Rise-->
+    <string name="capillary_material"> 2 glass sheets, match, rubber bands, water, food colour (optional) </string>
+    <string name="capillary_procedure">With the help of a rubber band and a matchstick, arrange two clean glass sheets as shown in the diagram. Place the arrangement in a plate containing some water.</string>
+    <string name="capillary_observation">Water rises to different heights along and between the glass sheets. </string>
+    <string name="capillary_theory">This is capillary action. Capillary rise results from adhesion, allowing the liquid to climb along the surface of the glass, as well as cohesion, which pulls the remainder of the liquid up. Water rises more where the glass sheets are closer together.</string>
+
+    <!--Moving Matches-->
+    <string name="movingmatches_material">Matches, water, straw, plastic lid </string>
+    <string name="movingmatches_procedure">Break several matches near the middle, but not so that they come apart. They should make acute angles. Place them on the plastic lid and place a few drops of water on the broken joints of the matches using the straw.</string>
+    <string name="movingmatches_observation">The matches close and return to their original straight shape. </string>
+    <string name="movingmatches_theory">Water gets absorbed in the wooden matchstick and causes it to expand. </string>
+    <string name="movingmatches_application">This is why it is difficult to open a wooden door after it rains. The water rises up the wood causing it to expand into its frame.</string>
+
+
+    <!--Measuring Capillary Rise-->
+    <string name="mcapillary_material"> Paper, chalk, small dish/lid, water, food colour </string>
+    <string name="mcapillary_setup">Cut oﬀ the bottom of a plastic bottle to make a water dish. </string>
+    <string name="mcapillary_procedure"> Place a strip of paper and a piece of chalk in a dish containing water. Leave the objects for some time and measure the rise in colour of each using a ruler. </string>
+    <string name="mcapillary_observation">The water rises faster in the chalk than in the paper. </string>
+    <string name="mcapillary_theory">Chalk has smaller capillaries than paper, which allows water to rise faster.</string>
+
+
+    <!--Automatic Irrigation-->
+    <string name="automatic_application"> Capillary action can be used to provide automatic irrigation for plants. Students can perform irrigation by dipping a porous material such as paper or cotton cloth in water.</string>
+
+    <!--Hazards (Safety Game)-->
+    <string name="hazards_material">Cards of hazard symbols </string>
+    <string name="hazards_procedure">Play a game with the symbol charts. A student is given a hazard symbol. He has to explain the hazard shown and to explain the necessary safety precautions in order to avoid that hazard.</string>
+    <string name="title_activity_statesofmatter">Arranging States of Matter</string>
+    <string name="title_activity_changesofstate">Changes of State</string>
+    <string name="title_activity_cellmodels">Cell Models</string>
+    <string name="title_activity_capillaryrise">Capillary Rise</string>
+    <string name="title_activity_movingmatches">Moving Matches</string>
+    <string name="title_activity_measuringcapillaryrise">Measuring Capillary Rise</string>
+    <string name="title_activity_automaticirrigation">Automatic Irrigation</string>
+    <string name="title_activity_hazards">A Safety Game</string>
+    <string name="title_activity_flowerstructure">Flower Structure</string>
+    <string name="title_activity_seedgermination">Seed Germination</string>
+    <string name="title_activity_conditionforgermination">Condition For Germination</string>
+
+    <!--Flower Structure-->
+    <string name="flower_material">Card or plastic, sticks, stones paper, clay or Plasticine</string>
+    <string name="flower_procedure">Make the major parts of a ﬂower from card or plastic, sticks and clay. Petals can be made from paper. </string>
+    <string name="flower_application"> Look at a variety of ﬂowers, fruit and seeds from the local environment.</string>
+
+    <!--Seed Germination-->
+    <string name="seedgermination_material">Seeds or beans, small bottles, water, avocado pits </string>
+    <string name="seedgermination_procedure"> Cut plastic bottles to make containers. In the ﬁrst, add soil with beans and water every day. In the second, ﬁll mostly with water and place an avocado seed inside. In the third, ﬁll mostly with water and place a potato inside. </string>
+    <string name="seedgermination_observation">The stages of germination can be seen over time.</string>
+    <string name="seedgermination_theory"> The avocado and potato undergo hydroponic germination, since the seed is sprouted by water, air and sunlight only.
+</string>
+
+    <!--Conditions for Germination-->
+    <string name="cforgermination_material"> 4 bottles or syringes, cotton wool, beans or seeds, water, oil </string>
+    <string name="cforgermination_procedure"> Place cotton wool at the bottom of each container and add a few beans or seeds to each. In container 1, add enough water to soak the cotton wool. In 2, add cool boiled water to ﬂood the seeds and a small amount of oil. In 3, add ice water. In 4, do not add any water. Record observations over several days. </string>
+    <string name="cforgermination_observation"> Only container 1 will show proper germination. The others will show little or no growth because they do not have the conditions necessary for germination.</string>
+
+    <!--Breathing Model-->
+    <string name="breathingmodel_material">Plastic bottle, balloons, plastic bag, string/rubber band, straw </string>
+    <string name="breathingmodel_procedure"> Cut the bottom oﬀ a plastic bottle. Attach a balloon over the bottle mouth so it hangs inside. Fix a piece of plastic bag over the cut base end using string or a rubber band. (Optional: Fix a straw through the bottle top and attach 1 or 2 balloons to the end inside the bottle.) </string>
+    <string name="breathingmodel_observation"> Pulling the plastic bag down causes the balloon to inflate; pushing it up causes the balloon the deﬂate. </string>
+    <string name="breathingmodel_theory">The balloon(s) represents the lung(s), the plastic bag the diaphragm, the bottle the thoracic cavity (and the straw the esophagus). Pulling the plastic sheet down causes an expansion of the cavity bringing about inspiration and causing the balloon to inflate. Pushing the sheet up reduces the volume of the cavity, causing expiration and the balloon to deﬂate. </string>
+    <string name="breathingmodel_notes"> Tell students that this model does not show the expansion and contraction of the rib cage with breathing.</string>
+
+    <!--Respiration Cards-->
+    <string name="respirationcards_material">Cards </string>
+    <string name="respirationcards_procedure"> Cut out cards to represent the substances involved in respiration. Label some cards with a ‘+’ or an arrow. Mix up the cards and ask students to arrange them correctly as shown.</string>
+
+    <!--Respiration Plates-->
+    <string name="respirationplates_material">Various seeds, bottle caps, coins, etc., plates, card</string>
+    <string name="respirationplates_procedure">Choose 3 different types of seed, coin or bottle cap to represent carbon, hydrogen and oxygen. Arrange 4 plates or boxes on a table as shown. Ask students to place the correct number of seeds etc. on the plates. When the seeds are placed correctly the card carrying the ‘E’ for energy is added. </string>
+    <string name="respirationplates_application">Demonstrate that the reverse equation is the process of photosynthesis.
+</string>
+
+    <!--Lung Capacity-->
+    <string name="lungcapacity_material"> Large plastic bag, bucket, water, basin </string>
+    <string name="lungcapacity_procedure"> Fill the bucket to the brim with water and stand it in the basin. Blow into an empty plastic bag or balloon. Submerge the bag in the bucket. Collect the overﬂowing water and measure the volume. Do this for regular breaths, deep breaths and breaths after holding for 10 seconds. </string>
+    <string name="lungcapacity_observation"> A regular breath may be around 0.5 L, while a full breath can exceed 3 L.</string>
+
+    <!--Water Wheel-->
+    <string name="waterwheel_material"> Stiff cardboard, scissors, nails, string, water, basin </string>
+    <string name="waterwheel_setup"> Construct the water wheel as shown. </string>
+    <string name="waterwheel_procedure"> Tie a small weight (e.g. paperclip, nail) to the string so that it rests on the ﬂoor. Pour water over the water wheel to turn it and lift the weight. </string>
+    <string name="waterwheel_theory">Water stores potential energy in the forms of rivers and waterfalls and when placed in an elevated storage tank. The kinetic energy of falling water can be used to do work on an object and generate electricity.</string>
+
+    <!--Wind Mill-->
+    <string name="windmill_material"> Paper/thin cardstock, scissors, pen, glue, paper fastener/thumb tack, straw or stick, colored pencils (optional) </string>
+    <string name="windmill_procedure">Copy the illustration onto a sheet of paper or thin cardstock. Cut along the lines and make holes with a pen. Bend the four corners together into the center and glue them in place. Push the fastener through the center into a straw or stick. </string>
+    <string name="windmill_theory">Wind provides kinetic energy which can be harnessed with a device such as a windmill and used to generate electricity if connected to a turbine.</string>
+
+    <!--Potential Energy of a Clothespin-->
+    <string name="potentialenergy_material">Three clothespins, scissors </string>
+    <string name="potentialenergy_procedure">Tie the handles of a spring clothespin together with one loop of string. Place it in between two other clothespins on a ﬂat table as shown. Cut or burn the string. </string>
+    <string name="potentialenergy_observation"> The two clothespins on either side ﬂy oﬀ in opposite directions. </string>
+    <string name="potentialenergy_theory"> The spring in the clothespin stores potential energy which is released when the string is cut. This energy is converted into kinetic energy, seen by the movement of the other clothespins.</string>
+
+    <!--Chemical to Electrical Energy-->
+    <string name="chemicalee_material"> Copper (II) sulphate, zinc metal (from dry cell), copper wire, steel wool, ammeter/bulb </string>
+    <string name="chemicalee_setup">Prepare a 2 M solution of copper (II) sulphate and clean pieces of copper wire and zinc using steel wool. </string>
+    <string name="chemicalee_procedure">Connect the zinc anode, ammeter/bulb and copper cathode in series using connecting wires. Dip the zinc and copper electrodes into the copper (II) sulphate solution. Read the current on the ammeter. </string>
+    <string name="chemicalee_observation"> The ammeter shows a deﬂection, possibly around 0.05 A. </string>
+    <string name="chemicalee_theory">The current produced indicates that the chemical energy inherent in the electrodes and the electrolyte solution is converted to electrical energy.</string>
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <string name="title_activity_breathingmodel">Breathing Model</string>
+    <string name="title_activity_respirationcards">Respiration Cards</string>
+    <string name="title_activity_respirationplates">Respiration Plates</string>
+    <string name="title_activity_lungcapacity">Lung Capacity</string>
+
+</resources>

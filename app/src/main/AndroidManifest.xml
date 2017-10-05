@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.practicaleducationnetwork.pen">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/logo"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".UserRegistration.splashScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".UserRegistration.MainActivity"
+            android:configChanges="orientation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".UserRegistration.login"
+            android:configChanges="orientation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".UserRegistration.profileMenu"
+            android:label="@string/title_activity_profile_menu"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".UserRegistration.ButtomA" />
+        <activity android:name=".UserRegistration.dataSave" />
+        <activity android:name=".UserRegistration.reset" />
+        <activity android:name=".EnergyPack.energyjhs1" />
+        <activity android:name=".Intro.Introduction_j1" />
+        <activity android:name=".Diversity.diversity_j1" />
+        <activity android:name=".CyclesPack.cycles_j1" />
+        <activity android:name=".Sys.systems_j1" />
+        <activity android:name=".Interaction.interactions_jhs" />
+        <activity
+            android:name=".Tab_JHS1.dataOnweighing"
+            android:label="@string/title_activity_data_onweighing"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Tab_JHS1.densitytower"
+            android:label="@string/title_activity_densitytower"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Tab_JHS1.eggFloat"
+            android:label="@string/title_activity_egg_float"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Tab_JHS1.sinkersAndFloaters"
+            android:label="@string/title_activity_sinkers_and_floaters"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Tab_JHS1.cartesianDiver"
+            android:label="@string/title_activity_cartesian_diver"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Tab_JHS1.constructionOfEuraka"
+            android:label="@string/title_activity_construction_of_euraka"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Tab_JHS1.StudentAsMatter"
+            android:label="@string/title_activity_student_as_matter"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Tab_JHS1.statesofmatter"
+            android:label="@string/title_activity_statesofmatter"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Tab_JHS1.changesofstate"
+            android:label="@string/title_activity_changesofstate"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Tab_JHS1.cellmodels"
+            android:label="@string/title_activity_cellmodels"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Tab_JHS1.capillaryrise"
+            android:label="@string/title_activity_capillaryrise"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Tab_JHS1.movingmatches"
+            android:label="@string/title_activity_movingmatches"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Tab_JHS1.automaticirrigation"
+            android:label="@string/title_activity_automaticirrigation"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Tab_JHS1.hazards"
+            android:label="@string/title_activity_hazards"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Tab_JHS1.measuringcapillaryrise"
+            android:label="@string/title_activity_measuringcapillaryrise"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Tab_JHS1.flowerstructure"
+            android:label="@string/title_activity_flowerstructure"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Tab_JHS1.seedgermination"
+            android:label="@string/title_activity_seedgermination"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Tab_JHS1.conditionforgermination"
+            android:label="@string/title_activity_conditionforgermination"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Tab_JHS1.breathingmodel"
+            android:label="@string/title_activity_breathingmodel"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Tab_JHS1.respirationcards"
+            android:label="@string/title_activity_respirationcards"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Tab_JHS1.respirationplates"
+            android:label="@string/title_activity_respirationplates"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Tab_JHS1.lungcapacity"
+            android:label="@string/title_activity_lungcapacity"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+    </application>
+
+</manifest>

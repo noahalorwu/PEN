@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/intro"
+            android:icon="@drawable/intro"
+            android:title="Introduction to Science" />
+        <item
+            android:id="@+id/diversity"
+            android:icon="@drawable/matter"
+            android:title="Diversity of Matter" />
+        <item
+            android:id="@+id/cycles"
+            android:icon="@drawable/cycle"
+            android:title="Cycles"
+            />
+        <item
+            android:id="@+id/sys"
+            android:icon="@drawable/sys"
+            android:title="Systems" />
+
+        <item
+            android:id="@+id/energy"
+            android:icon="@drawable/energy"
+            android:title="Energy" />
+
+        <item
+            android:id="@+id/interact"
+            android:icon="@drawable/interact"
+            android:title="Interactions of Matter" />
+
+        <item
+            android:id="@+id/equip"
+            android:icon="@drawable/equip"
+            android:title="Laboratory Equipments" />
+
+    </group>
+
+
+    <item android:title="Forum">
+        <menu>
+            <item
+                android:id="@+id/chat"
+                android:icon="@drawable/forum"
+                android:title="Chat" />
+            <item
+                android:id="@+id/capture"
+                android:icon="@drawable/capture"
+                android:title="Capture" />
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "565546603559",
+    "firebase_url": "https://practical-education-network.firebaseio.com",
+    "project_id": "practical-education-network",
+    "storage_bucket": "practical-education-network.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565546603559:android:3b818fb8cf99501f",
+        "android_client_info": {
+          "package_name": "com.practicaleducationnetwork.pen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565546603559-2lf5i5qhdpdsukfb5vkmhrdclkgg27l1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEUd0QEZbQvcyiS2u7cYrMHmAQW8CYHTw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
