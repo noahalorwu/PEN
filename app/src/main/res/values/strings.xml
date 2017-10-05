@@ -267,7 +267,7 @@
     <string name="chemicalee_material"> Copper (II) sulphate, zinc metal (from dry cell), copper wire, steel wool, ammeter/bulb </string>
     <string name="chemicalee_setup">Prepare a 2 M solution of copper (II) sulphate and clean pieces of copper wire and zinc using steel wool. </string>
     <string name="chemicalee_procedure">Connect the zinc anode, ammeter/bulb and copper cathode in series using connecting wires. Dip the zinc and copper electrodes into the copper (II) sulphate solution. Read the current on the ammeter. </string>
-    <string name="chemicalee_observation"> The ammeter shows a deﬂection, possibly around 0.05 A. </string>
+    <string name="chemicalee_observation"> The ammeter shows a deflection, possibly around 0.05 A. </string>
     <string name="chemicalee_theory">The current produced indicates that the chemical energy inherent in the electrodes and the electrolyte solution is converted to electrical energy.</string>
 
 
